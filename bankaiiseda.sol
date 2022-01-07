@@ -1,5 +1,6 @@
 /**
  *Submitted for verification at Etherscan.io on 2021-12-13
+ FOR MORE INFORMATION ON THE PROJECT BANAKI ISEDA PLEASE VISIT ======>>> WWW.BANKAIISEDA.ORG<<<======
 */
 
 pragma solidity ^0.5.0;
